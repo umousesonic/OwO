@@ -19,11 +19,11 @@ Note that the hardwares listed above are the ones tested, theoratically any comp
 - [x] Cute
 - [x] Blinking eyes
 - [x] Random talks
-- [] Audio visualizator
-- [] Daily tasks
-- [] In sync with Outlook
-- [] Email Notifications
-- [] Clock
+- [ ] Audio visualizator
+- [ ] Daily tasks
+- [ ] In sync with Outlook
+- [ ] Email Notifications
+- [ ] Clock
 
 ## Dependencies
 - Python 3.x
