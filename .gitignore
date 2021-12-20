@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # pycache
-__pycache__/
+/__pycache__
